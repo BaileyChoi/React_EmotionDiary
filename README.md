@@ -7,12 +7,11 @@
 
 # 감정일기장 v1.0
 
-> **Bailey's React Project** <br/>
-> **개발기간: 2024.01 ~ 2024.03**
+> **Bailey's React Project** <br/> > **개발기간: 2024.01 ~ 2024.03**
 
 ## 배포 주소
 
-> ** Vercel ** : [https://emotion-diary-two.vercel.app/](https://emotion-diary-two.vercel.app/)
+> **Vercel** : [https://emotion-diary-two.vercel.app/](https://emotion-diary-two.vercel.app/)
 
 ## 개발자
 
